@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "271999319914",
+    "project_id": "objetos-perdidos-app-1203",
+    "storage_bucket": "objetos-perdidos-app-1203.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271999319914:android:d53d5b57daed4522842f13",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_sofia_artigas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271999319914-cai4ito25gv7f6dov25a56c70o3v9jqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQoBRkySKBwOTPnHI_-r4meb1ScM-UEak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271999319914-cai4ito25gv7f6dov25a56c70o3v9jqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271999319914:android:9b3a8b4044c322f8842f13",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_sofia_artigas_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271999319914-fjss37fh290q78ocni91rtd0bfi5qa22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyecto_sofia_artigas_app",
+            "certificate_hash": "64665dff65e1df8e9bc6c8965ff630585d172725"
+          }
+        },
+        {
+          "client_id": "271999319914-cai4ito25gv7f6dov25a56c70o3v9jqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQoBRkySKBwOTPnHI_-r4meb1ScM-UEak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271999319914-cai4ito25gv7f6dov25a56c70o3v9jqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
